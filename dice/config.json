@@ -1,0 +1,12 @@
+
+{
+  "bounds": {
+    "low": 1,
+    "high": 6
+  },
+
+  "rigged": {
+    "status": false,
+    "rigged_number": 2
+  }
+}
